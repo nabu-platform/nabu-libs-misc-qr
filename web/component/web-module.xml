@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<webModule>
+    <path>/qr</path>
+    <webFragments>nabu.libs.misc.qr.web.render</webFragments>
+</webModule>
